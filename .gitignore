@@ -18,3 +18,10 @@
 encoder/saved_models/*
 synthesizer/saved_models/*
 vocoder/saved_models/*
+saved_models/*
+*.wav
+*.pt
+*.pth
+*.ptl
+*.pth.tar
+*.pth.tar.gz
